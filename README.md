@@ -2,8 +2,8 @@
 A nifty little WinRM/Powershell Remoting client!
 
 ## Requirements:
-ruby version 2.5.7+ (Tested with 2.5.7p206, may work with older version)
-winrm ruby library found [here](https://github.com/WinRb/WinRM)
+* ruby version 2.5.7+ (Tested with 2.5.7p206, may work with older version)
+* winrm ruby library found [here](https://github.com/WinRb/WinRM)
 
 ### To install the winrm library:
 
