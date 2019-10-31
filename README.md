@@ -17,7 +17,7 @@ Example:
 poshremote 10.10.10.13 administrator P@ssword! $PSVersionTable
 ```
 #### NOTE 1:
-When using the script with long commands, use single qotes (') to wrap the entire command (I've found that works best)
+When using the script with long commands/semicolon delimited one-liners, use single quotes (') to wrap the entire command (I've found that works best)
 
 #### NOTE 2:
 This script defaults the winrm port to 5985 and the path is set by default to /wsman
